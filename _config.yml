@@ -22,7 +22,7 @@ url: https://blorente.me # the base hostname & protocol for your site e.g. "http
 author: 
   name: Borja Lorente
   twitter: "@BLorenteEs"
-  picture: 
+  picture: /assets/japan-ramen.jpg
 twitter_username: BLorenteEs
 github_username: blorente
 logo: # path of site logo, e.g. "/assets/images/logo.png"
