@@ -34,7 +34,7 @@ algolia:
   index_name: # YOUR_INDEX_NAME
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
-google-analytics: "G-DN7R64RW31"
+google_analytics: "G-DN7R64RW31"
 
 # Build settings
 markdown: kramdown
