@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Borja Lorente
-email: blorente.writes@gmail.com
-description: A hub for Borja's Writing Adventures
+email: borja@blorente.me
+description: "A hub for Borja's Writing Adventures"
 baseurl: /books # the optional subpath of your site, e.g. "/blog"
 url: https://blorente.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
