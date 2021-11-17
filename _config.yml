@@ -38,7 +38,8 @@ google_analytics: "G-DN7R64RW31"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+#theme: jekyll-theme-basically-basic
+remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
