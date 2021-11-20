@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Borja's Books
-subtitle: The central hub for Decorat and the Solar Empire.
+subtitle: The central hub for all things Belcroft and Decorat.
 ---
 
 
