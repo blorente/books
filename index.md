@@ -4,11 +4,11 @@ title: Borja's Books
 subtitle: The central hub for all things Belcroft and Decorat.
 ---
 
-<h2><blockquote>
-<p>A room without books is like a body without a soul.</p>
-
-<p> - Cicero</p>
-</blockquote></h2>
+{%
+  include big-quote.html 
+  quote="A room without books is like a body without a soul."
+  author="Cicero"
+%}
 
 # Want a Free Short Story?
 
