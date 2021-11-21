@@ -12,7 +12,7 @@ subtitle: The central hub for all things Belcroft and Decorat.
 
 # Want a Free Short Story?
 
-The best introduction to my writing in **"The Promotion"**, a short story set in the world of Decorat. Good news is, you can get it for free!
+The best introduction to my writing is **"The Promotion"**, a short story set in the world of Decorat. Good news is, you can get it for free!
 
 Just subscribe to my newsletter below.
 
