@@ -4,15 +4,23 @@ title: Borja's Books
 subtitle: The central hub for all things Belcroft and Decorat.
 ---
 
+<h2><blockquote>
+<p>A room without books is like a body without a soul.</p>
 
-# Welcome!
+<p> -- Cicero</p>
+</blockquote></h2>
 
-Welcome to my little corner of the internet!
-This is will be the central hub for all the information about my books.
+# Want a Free Short Story?
+
+The best introduction to my writing in **"The Promotion"**, a short story set in the world of Decorat. Good news is, you can get it for free!
+
+Just subscribe to my newsletter below.
+
+{% include newsletter-magnet.html %}
 
 # Upcoming Releases
 
-You're probably here because you're interested in my new book, *"Belcroft: Cognitor Fractis"*. Get it earlier than anyone by signing up to my newsletter!
+{{ posts }}
 
-<br>
-<script async data-uid="ec9fc612a5" src="https://blorente-writes.ck.page/ec9fc612a5/index.js"></script>
+
+
