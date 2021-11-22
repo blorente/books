@@ -16,5 +16,5 @@ When I'm not making stuff up, I can be found working in developer tooling for on
 
 Very nice to meet you!
 
-{% include newsletter-magnet.html %}
+{% include newsletter-magnet-the-promotion.html %}
 

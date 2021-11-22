@@ -20,4 +20,4 @@ But he'll pull through...
 
 Find out by reading **"The Promotion"**, the first short story set in Decorat.
 
-{% include newsletter-magnet.html %}
+{% include newsletter-magnet-the-promotion.html %}

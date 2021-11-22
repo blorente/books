@@ -14,4 +14,4 @@ After almost 40 years in the frontline, a cryptic message about her father makes
 
 Remember: In Decorat, you're never alone. Not even inside your mind.
 
-{% include newsletter-magnet.html %}
+{% include newsletter-magnet-belcroft.html %}

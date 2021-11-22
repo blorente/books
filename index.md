@@ -16,7 +16,7 @@ The best introduction to my writing is **"The Promotion"**, a short story set in
 
 Just subscribe to my newsletter below.
 
-{% include newsletter-magnet.html %}
+{% include newsletter-magnet-the-promotion.html %}
 
 
 
