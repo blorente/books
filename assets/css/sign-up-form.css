@@ -1,0 +1,22 @@
+root {
+  --signup-form-height: 353px;
+}
+
+.signup-container {
+display: grid;
+justify-content: center;
+height: var(--signup-form-height) + 1.5rem;
+padding: 1.5rem;
+grid-gap: 1em;
+background-color: black;
+grid-template-areas: 'form img';
+}
+
+.signup-form {
+  grid-area: form;
+}
+
+.signup-image {
+height: var(--signup-form-height);
+grid-area: img;
+}
