@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Borja's Books
+title: B. L. Escobar
 subtitle: The central hub for all things Belcroft and Decorat.
 ---
 
