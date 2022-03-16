@@ -1,17 +1,12 @@
 ---
-layout: post
-title: "[Upcoming] Belcroft: Cognitor Fractis"
-thumbnail-img: /assets/img/belcroft-cover.jpg
-cover-img: /assets/img/belcroft-cover.jpg
+layout: post_with_image
+title: "[Upcoming] Belcroft: Cognitor Fracti"
+thumbnail-img: /assets/img/bco-cover-small.jpg
+main_image: /assets/img/bco-cover-small.jpg
 ---
 
-People are disappearing in Decorat. More people than usual, that is.
-It's like the smog of the Grids is swallowing them whole.
+It's the 10th millennium. In Decorat, billions of workers spend their collective minds sieving through eons of data. Who cares about their sanity -- there are always more people.
 
-It was a matter of time before the wrong people started vanishing.
+Four decades after leaving her homeworld, Major Erika of House Belcroft receives an urgent message pleading for her return to Decorat. People are disappearing in the hundreds and her father is amongst them.
 
-After almost 40 years in the frontline, a cryptic message about her father makes Erika Belcroft return to her homeworld. Will she find her footing in the concrete jungle of the undercity?
-
-Remember: In Decorat, you're never alone. Not even inside your mind.
-
-{% include newsletter-magnet-belcroft.html %}
+Her investigation pulls her and her cat Tristan out of the comfortable Spires, under the smog layer, and into the city's rotten underbelly. But in the hidden urban depths of Decorat, some questions lead to deadly answers.

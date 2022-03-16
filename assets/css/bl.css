@@ -1,0 +1,19 @@
+.pwi-container {
+    display: grid;
+    grid-template-areas: "image cont";
+    gap: 1em;
+}
+@media screen and (max-width: 600px) {
+    .pwi-container {
+        grid-template-areas: 
+            "image"
+            "cont";
+    }
+}
+.pwi-image {
+    grid-area: image;
+}
+.pwi-content {
+    grid-area: cont;
+}
+
