@@ -17,8 +17,8 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Books:
-    - "The Promotion": "https://blescobar.com/2021-11-20-the-promotion/"
-    - "Belcroft (Beta)": "https://blescobar.com/books/belcroft-beta"
+    - "The Promotion": "https://blescobar.com/books/the-promotion/"
+    - "Belcroft: Cognitor Fracti": "https://blescobar.com/books/belcroft-cognitor-fracti/"
 
 
 # --- Logo --- #
@@ -77,6 +77,8 @@ share-links-active:
   facebook: true
   linkedin: true
   vk: false
+
+include: ['books']
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer

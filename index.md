@@ -1,14 +1,9 @@
 ---
 layout: home
 title: B. L. Escobar
-subtitle: The central hub for all things Belcroft and Decorat.
+subtitle: Thrilling books set in the dirty, grim, overcrowded far future.
+cover-img: "/assets/img/covers/1.jpg"
 ---
-
-{%
-  include big-quote.html 
-  quote="A room without books is like a body without a soul."
-  author="Cicero"
-%}
 
 # Want a Free Short Story?
 
