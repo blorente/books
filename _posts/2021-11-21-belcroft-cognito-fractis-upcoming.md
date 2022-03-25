@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Belcroft: Cognitor Fracti"
+subtitle: "Decorat Burns (Book 1)"
 thumbnail-img: /assets/img/bco-cover-small.jpg
 ---
 

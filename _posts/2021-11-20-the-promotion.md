@@ -1,6 +1,7 @@
 ---
 layout: post
-title: '"The Promotion": A free short story from Decorat.'
+title: 'The Promotion'
+subtitle: 'A free short story from Decorat'
 thumbnail-img: /assets/img/the-promotion-cover.jpg
 ---
 
