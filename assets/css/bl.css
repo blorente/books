@@ -17,3 +17,16 @@
     grid-area: cont;
 }
 
+.cta-button {
+    background-color: brown;
+    min-width: 15rem;
+    color: #e4e6eb;
+    border-width: 5px;
+    border-color: darkred;
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-size:x-large;
+    font-family: 'Lora', 'Times New Roman', "serif";
+}

@@ -2,7 +2,6 @@
 layout: post
 title: '"The Promotion": A free short story from Decorat.'
 thumbnail-img: /assets/img/the-promotion-cover.jpg
-cover-img: /assets/img/the-promotion-cover.jpg
 ---
 
 {%

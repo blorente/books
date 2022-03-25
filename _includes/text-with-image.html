@@ -1,0 +1,10 @@
+<div class="pwi-container">
+  <div class="pwi-image">
+    <img src="{{ include.image }}" alt="Main image on the page" />
+  </div>
+  <div class="pwi-content">
+    {% for line in include.content %}
+    <p>{{ line }}</p>
+    {% endfor %}
+  </div>
+</div>
