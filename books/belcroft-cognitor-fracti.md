@@ -1,8 +1,10 @@
 ---
 layout: page
 title: "Belcroft: Cognitor Fracti"
-subtitle: "Decorat Burns (Book 1)"
+subtitle: "Out May 9th!"
 thumbnail-img: /assets/img/bco-cover-small.jpg
+action-link: "https://storyoriginapp.com/universalbooklinks/64ff7ab0-a4a6-11ec-b964-57b9859fe0aa"
+action-text: "Preorder Now!"
 ---
 
 {% capture main_content %}

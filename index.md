@@ -15,9 +15,11 @@ Just subscribe to my newsletter below.
 
 {% assign books = site.pages | where_exp: "item" , "item.path contains 'books'"%}
 
-<div class="posts-list">
-    {% for book in books %}
-    {%- capture thumbnail -%}
+<div class="book-list">
+<h1>My Books!</h1>
+<div class="book-series-container">
+{% for book in books %}
+{%- capture thumbnail -%}
       {% if book.thumbnail-img %}
         {{ book.thumbnail-img }}
       {% elsif book.cover-img %}
@@ -27,27 +29,19 @@ Just subscribe to my newsletter below.
           {{ book.cover-img }}
         {% endif %}
       {% endif %}
-    {% endcapture %}
-    {% assign thumbnail=thumbnail | strip %}
-    <article class="post-preview">
-        <div class="post-image post-image-normal">
-            <a href="{{ book.url | absolute_url }}" aria-label="Thumbnail">
-                <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-            </a>
-        </div>
-        <a href="{{ book.url | absolute_url }}">
-        <h2 class="post-title">{{ book.title | strip_html }}</h2>
+{% endcapture %}
+{% assign thumbnail=thumbnail | strip %}
 
-        {% if book.subtitle %}
-            <h3 class="book-subtitle">
-            {{ book.subtitle | strip_html }}
-            </h3>
-        {% endif %}
-        </a>
-    <br>
-    {% assign target_url=book.url %}
-    {% include cta-button.html target=target_url title="Read More" %}
+    <section class="book-in-series">
+    
+    <a href="{{ book.url | absolute_url }}" aria-label="Thumbnail">
+        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+    </a>
+                    
+    {% assign cta_url=book.action-link %}
+    {% assign cta_text=book.action-text %}
+    {% include cta-button.html target=cta_url title=cta_text %}
+    </section>
 
-</article>
 {% endfor %}
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to the Inner Circle
+title: Welcome aboard, Archiver.
 subtitle: Thank you for joining!
 ---
 

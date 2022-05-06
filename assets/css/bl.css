@@ -19,6 +19,7 @@
 
 .cta-button {
     background-color: brown;
+    width: 100%;
     min-width: 15rem;
     color: #e4e6eb;
     border-width: 5px;
@@ -29,4 +30,17 @@
     padding-right: 1.5rem;
     font-size:x-large;
     font-family: 'Lora', 'Times New Roman', "serif";
+}
+
+.book-series-container {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: 250px 250px 250px;
+}
+
+.book-in-series {
+    display: grid;
+    gap: 20px;
+    align-content: center;
+    justify-content: center;
 }
