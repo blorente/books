@@ -8,15 +8,17 @@ action-text: "Preorder Now!"
 ---
 
 {% capture main_content %}
-<p><strong>When the city turns on itself, she can’t protect everyone.</strong></p>
+<p><strong>When the city turns on itself, who will she turn to?</strong></p>
 
-<p>It was a regular day for Erika Belcroft, Inspector in training. Crack a smuggler's hideout, capture the asset, extract information, and track down the guns. It should have been simple.</p>
+<p>It should have been simple.</p>
 
-<p>But guns weren’t the only thing shipped into Decorat.</p>
+<p>Crack a smuggler's hideout, extract information, and track down the guns.</p>
 
-<p>Someone else landed with them. Someone dangerous. Someone lethal. Someone trained to slip into the fabric of the city and tear its foundations from the inside.</p>
+<p>With cases like these, Erika Belcroft’s ascent to Inspector would be easy.</p>
 
-<p>When the city turns on itself, who will she turn to?</p>
+<p>But with the weapons came someone else. Someone lethal. Someone willing and able to slip into the city’s fabric and tear it apart.</p>
+
+<p>When a new threat meets old enemies, when the city turns on itself, who will she turn to?</p>
 
 <p><strong>The Second entry in the Decorat Burning Series, just as action-packed as the first!</strong></p>
 
