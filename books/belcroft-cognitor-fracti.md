@@ -4,7 +4,7 @@ title: "Belcroft: Cognitor Fracti"
 subtitle: "Out May 9th!"
 thumbnail-img: /assets/img/bco-cover-small.jpg
 action-link: "https://storyoriginapp.com/universalbooklinks/64ff7ab0-a4a6-11ec-b964-57b9859fe0aa"
-action-text: "Preorder Now!"
+action-text: "Read Now!"
 ---
 
 {% capture main_content %}
