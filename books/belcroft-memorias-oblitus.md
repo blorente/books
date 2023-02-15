@@ -3,8 +3,8 @@ layout: page
 title: "Belcroft: Memorias Oblitus"
 subtitle: "Out June 30th!"
 thumbnail-img: /assets/img/bmo-cover-small.jpg
-action-link: "https://books2read.com/belcroft"
-action-text: "Preorder Now!"
+action-link: "https://books2read.com/belcroft2"
+action-text: "Read Now!"
 ---
 
 {% capture main_content %}
@@ -22,7 +22,7 @@ action-text: "Preorder Now!"
 
 <p><strong>The Second entry in the Decorat Burning Series, just as action-packed as the first!</strong></p>
 
-{% include cta-button.html target="https://books2read.com/belcroft" title="Preorder Now!" %}
+{% include cta-button.html target="https://books2read.com/belcroft" title="Read Now!" %}
 
 {% endcapture %}
 
