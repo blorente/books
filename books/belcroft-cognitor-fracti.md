@@ -2,7 +2,7 @@
 layout: page
 title: "Belcroft: Cognitor Fracti"
 thumbnail-img: /assets/img/bco-cover-small.jpg
-action-link: "https://storyoriginapp.com/universalbooklinks/64ff7ab0-a4a6-11ec-b964-57b9859fe0aa"
+action-link: "books2read.com/belcroft"
 action-text: "Read Now!"
 ---
 
@@ -21,7 +21,7 @@ action-text: "Read Now!"
 
 <p><strong>Blade Runner meets Gregor Eisenhorn from Warhammer 40.000, with a dash of Altered Carbon!</strong></p>
 
-{% include cta-button.html target="https://storyoriginapp.com/universalbooklinks/64ff7ab0-a4a6-11ec-b964-57b9859fe0aa" title="Read Now!" %}
+{% include cta-button.html target="books2read.com/belcroft" title="Read Now!" %}
 
 {% endcapture %}
 
